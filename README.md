@@ -24,7 +24,9 @@
 
 ---
 - 甘特圖
+![甘特圖](https://user-images.githubusercontent.com/113968421/195001136-532f555c-b64c-406e-b632-9bf15bc3802b.png)
 
+[甘特圖繪製連結](https://hackmd.io/DdQUMf23RKSrkpaLKH_huQ?view)
 
 ---
 - 關鍵路徑
