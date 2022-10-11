@@ -30,6 +30,6 @@
 
 ---
 -![關鍵路徑](https://user-images.githubusercontent.com/113968421/195004283-d75c7edb-ff55-47b4-8519-8c6d323091a8.png)
- 關鍵路徑
+ 
+[關鍵路徑繪製連結](https://hackmd.io/Cc2MNcmSQaSrgywCuy808g?view)
 
-［關鍵路徑繪製連結］（https://hackmd.io/Cc2MNcmSQaSrgywCuy808g?view）
